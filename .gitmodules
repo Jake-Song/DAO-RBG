@@ -1,0 +1,6 @@
+[submodule "pymaker"]
+	path = pymaker
+	url = https://github.com/Jake-Song/pymaker
+[submodule "dai.js"]
+	path = dai.js
+	url = https://github.com/Jake-Song/dai.js
